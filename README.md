@@ -35,6 +35,7 @@
 ```bash
 python3 "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/install-skill-from-github.py" \
   --repo Lee-study154/editorial-motion-video \
+  --ref codex/initial-release \
   --path skills/editorial-motion-video
 ```
 
