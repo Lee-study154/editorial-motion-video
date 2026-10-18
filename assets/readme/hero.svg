@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">WHOSE SCRIPT? — Editorial Motion Video</title>
+  <desc id="desc">An attention-economy film and the reusable agent skill behind it. Bold black and Klein-blue type meets folded script pages and a glasses motif; a timeline shows its real 43.2-second structure.</desc>
+  <rect width="1200" height="520" rx="18" fill="#FCFCFB"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="56" y="51" font-size="19" letter-spacing="2" fill="#596271">EDITORIAL MOTION VIDEO / FILM 01</text>
+    <text x="1144" y="51" font-size="19" text-anchor="end" fill="#596271">43.2s · 9:16 · 4K60</text>
+    <g id="film-title" font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-6">
+      <text x="51" y="195" font-size="145" fill="#12171E">WHOSE</text>
+      <text x="48" y="337" font-size="157" fill="#002FA7">SCRIPT?</text>
+    </g>
+    <text x="58" y="390" font-size="37" font-weight="650" fill="#12171E">THE FILM. THE SKILL. THE SOURCE.</text>
+    <g id="script-pages" transform="translate(825 108)" stroke="#12171E" stroke-width="3" stroke-linejoin="round">
+      <path d="M20 36 246 9 273 246 46 273Z" fill="#002FA7" stroke="#002FA7"/>
+      <path d="M-5 25 221 -2 248 234 21 261Z" fill="#E8EBF2"/>
+      <path d="M-28 12 198 -15 225 221 -1 248Z" fill="#FCFCFB"/>
+      <path d="m2 162 131-16m-128 38 165-20m-161 43 106-13" stroke="#002FA7" stroke-width="5"/>
+      <g id="glasses" transform="translate(75 87) rotate(-7)" fill="#FCFCFB" stroke-width="7">
+        <circle cx="-43" cy="0" r="34"/><circle cx="42" cy="0" r="34"/>
+        <path d="M-9 -3Q-1 -11 8 -3M-77 -8 -94 -13M76 -8 91 -14" fill="none"/>
+        <circle cx="-38" cy="5" r="5" fill="#002FA7" stroke="none"/>
+        <circle cx="47" cy="5" r="5" fill="#002FA7" stroke="none"/>
+      </g>
+      <path d="M171 -12 176 28 202 17" fill="none" stroke="#002FA7"/>
+    </g>
+    <g id="film-timeline" transform="translate(56 433)">
+      <rect width="1088" height="27" fill="#E4E7EC"/>
+      <rect width="121" height="27" fill="#12171E"/>
+      <rect x="121" width="206" height="27" fill="#002FA7"/>
+      <rect x="327" width="370" height="27" fill="#12171E"/>
+      <rect x="697" width="220" height="27" fill="#A9B5D1"/>
+      <rect x="917" width="171" height="27" fill="#002FA7"/>
+      <g stroke="#FCFCFB" stroke-width="5"><path d="M121 0V27M327 0V27M697 0V27M917 0V27"/></g>
+      <g font-size="18" fill="#596271">
+        <text y="57">00 / FEEDS</text><text x="327" y="57">13 / ATTENTION</text>
+        <text x="917" y="57">36.4 / SCRIPT</text><text x="1088" y="57" text-anchor="end">43.2</text>
+      </g>
+    </g>
+  </g>
+</svg>
