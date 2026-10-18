@@ -1,0 +1,6 @@
+interface:
+  display_name: "Editorial Motion Video"
+  short_description: "统一解释片与产品宣传片的分镜、动效、声音、静帧预览和可复现渲染流程"
+  default_prompt: "使用 $editorial-motion-video 制作一支视频，先选择主导模式和动效，再给我看静帧分镜与声画样片。"
+policy:
+  allow_implicit_invocation: true

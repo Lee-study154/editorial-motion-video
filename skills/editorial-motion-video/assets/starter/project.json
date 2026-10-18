@@ -1,0 +1,15 @@
+{
+  "name": "Editorial demo",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "lead": "talkcraft",
+  "illustrationMax": 0.3,
+  "color": {"paper": "#FCFCFB", "ink": "#12171E", "accent": "#002FA7"},
+  "shots": [
+    {"id": "01-question", "kind": "type", "seconds": 2.0, "title": "Whose script?", "subtitle": "Replace the story, keep the motion deterministic.", "motion": "type-rise"},
+    {"id": "02-evidence", "kind": "page", "seconds": 4.0, "title": "Show the evidence.", "asset": "demo-page.svg", "source": "Generated layout demo; replace with verified page material.", "motion": "page-tilt"},
+    {"id": "03-character", "kind": "illustration", "seconds": 2.0, "title": "Make your choice.", "asset": "demo-character.svg", "source": "Simple generated placeholder, not the user's IP.", "motion": "character-float"}
+  ],
+  "audio": []
+}
